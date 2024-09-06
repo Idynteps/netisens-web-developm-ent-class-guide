@@ -23,10 +23,11 @@
 // A.) Mouse Events
 
 // 1.) Click: Triggered when an element is clicked.
-// const button = document.getElementById("myButton");
-// button.addEventListener("click", function() {
-//   alert("Button was clicked!");
-// });
+const button = document.getElementById("myButton");
+console.log
+button.addEventListener("click", function() {
+  alert("Button was clicked!");
+});
 
 // 2.) dblclick: Triggered when an element is double-clicked.
 // const button = document.getElementById("myButton");
